@@ -1,0 +1,7 @@
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Testing\oops\oops\bin\Debug\oops.exe.config
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Testing\oops\oops\bin\Debug\oops.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Testing\oops\oops\bin\Debug\oops.pdb
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Testing\oops\oops\obj\Debug\oops.csproj.AssemblyReference.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Testing\oops\oops\obj\Debug\oops.csproj.CoreCompileInputs.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Testing\oops\oops\obj\Debug\oops.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Testing\oops\oops\obj\Debug\oops.pdb

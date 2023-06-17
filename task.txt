@@ -1,0 +1,18 @@
+Step 1: Class Creation
+Create a class named "Student" that represents a student. The class should have the following properties:
+
+Name (string): The name of the student.
+Age (int): The age of the student.
+Grade (int): The grade level of the student.
+
+Step 2: Display Information
+Implement a method in the Student class called "DisplayInfo" that displays the information of a student. The method should print the student's name, age, and grade level.
+
+Step 3: Object Creation
+Create three instances of the Student class, representing three different students. Assign appropriate values to the properties of each student.
+
+Step 4:
+Call the "DisplayInfo" method for each student to display their information.
+
+Step 5: Run and Test
+Compile and run the program. Ensure that the program executes without any errors and displays the correct information for each student.

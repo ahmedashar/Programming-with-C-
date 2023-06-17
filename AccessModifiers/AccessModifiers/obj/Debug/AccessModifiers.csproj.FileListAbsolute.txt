@@ -1,0 +1,7 @@
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.pdb
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csproj.AssemblyReference.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.pdb

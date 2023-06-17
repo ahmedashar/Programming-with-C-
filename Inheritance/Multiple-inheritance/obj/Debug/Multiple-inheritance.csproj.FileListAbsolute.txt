@@ -1,0 +1,7 @@
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Inheritance\Multiple-inheritance\bin\Debug\Multiple-inheritance.exe.config
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Inheritance\Multiple-inheritance\bin\Debug\Multiple-inheritance.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Inheritance\Multiple-inheritance\bin\Debug\Multiple-inheritance.pdb
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Inheritance\Multiple-inheritance\obj\Debug\Multiple-inheritance.csproj.AssemblyReference.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Inheritance\Multiple-inheritance\obj\Debug\Multiple-inheritance.csproj.CoreCompileInputs.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Inheritance\Multiple-inheritance\obj\Debug\Multiple-inheritance.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Inheritance\Multiple-inheritance\obj\Debug\Multiple-inheritance.pdb
