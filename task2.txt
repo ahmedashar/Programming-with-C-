@@ -1,0 +1,5 @@
+Task 1: Create an abstract class called Shape that represents geometric shapes. It should have an abstract method called CalculateArea() to calculate the area of the shape. Derive two classes (Rectangle and Circle) from Shape and implement the CalculateArea() method for each shape.
+
+Task 2: Create an abstract class called Animal that represents animals. It should have abstract methods for Eat() and MakeSound(). Derive two classes (Dog and Cat) from Animal and provide implementations for the abstract methods. Create instances of Dog and Cat and call their Eat() and MakeSound() methods.
+
+Task 3: Create an abstract class called Vehicle that represents vehicles. It should have abstract methods for Start() and Stop(). Derive two classes (Car and Motorcycle) from Vehicle and provide implementations for the abstract methods. Create instances of Car and Motorcycle and call their Start() and Stop() methods.

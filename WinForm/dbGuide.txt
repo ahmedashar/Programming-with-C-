@@ -1,0 +1,6 @@
+Open Server Explorer like tool box
+then add (service base database) like form2
+Click on Database1.mdf --> available in Solution explorer 
+Add new Table --> add column (Name)
+
+SqlConnection --> install Pkg

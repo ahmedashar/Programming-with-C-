@@ -1,0 +1,7 @@
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\properties\bin\Debug\properties.exe.config
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\properties\bin\Debug\properties.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\properties\bin\Debug\properties.pdb
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\properties\obj\Debug\properties.csproj.AssemblyReference.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\properties\obj\Debug\properties.csproj.CoreCompileInputs.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\properties\obj\Debug\properties.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\properties\obj\Debug\properties.pdb

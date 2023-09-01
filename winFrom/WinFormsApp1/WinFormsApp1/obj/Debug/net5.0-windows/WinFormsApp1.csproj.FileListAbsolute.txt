@@ -1,0 +1,52 @@
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form2.resources
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ashar\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form2.resources
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\winFrom\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache

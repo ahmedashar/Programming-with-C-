@@ -1,0 +1,7 @@
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\Indexers\bin\Debug\Indexers.exe.config
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\Indexers\bin\Debug\Indexers.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\Indexers\bin\Debug\Indexers.pdb
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\Indexers\obj\Debug\Indexers.csproj.AssemblyReference.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\Indexers\obj\Debug\Indexers.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\Indexers\obj\Debug\Indexers.pdb

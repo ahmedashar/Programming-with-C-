@@ -1,0 +1,7 @@
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Collection\Collection\bin\Debug\Collection.exe.config
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Collection\Collection\bin\Debug\Collection.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Collection\Collection\bin\Debug\Collection.pdb
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Collection\Collection\obj\Debug\Collection.csproj.AssemblyReference.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Collection\Collection\obj\Debug\Collection.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Collection\Collection\obj\Debug\Collection.pdb

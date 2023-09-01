@@ -1,0 +1,6 @@
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Inheritance\overriding\bin\Debug\overriding.exe.config
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Inheritance\overriding\bin\Debug\overriding.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Inheritance\overriding\bin\Debug\overriding.pdb
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Inheritance\overriding\obj\Debug\overriding.csproj.CoreCompileInputs.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Inheritance\overriding\obj\Debug\overriding.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\Inheritance\overriding\obj\Debug\overriding.pdb

@@ -1,0 +1,7 @@
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\nameSpaces\bin\Debug\nameSpaces.exe.config
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\nameSpaces\bin\Debug\nameSpaces.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\nameSpaces\bin\Debug\nameSpaces.pdb
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\nameSpaces\obj\Debug\nameSpaces.csproj.CoreCompileInputs.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\nameSpaces\obj\Debug\nameSpaces.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\nameSpaces\obj\Debug\nameSpaces.pdb
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\properties\nameSpaces\obj\Debug\nameSpaces.csproj.AssemblyReference.cache

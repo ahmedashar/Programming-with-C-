@@ -1,0 +1,7 @@
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\exceptionHandeling\exceptionHandeling\bin\Debug\exceptionHandeling.exe.config
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\exceptionHandeling\exceptionHandeling\bin\Debug\exceptionHandeling.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\exceptionHandeling\exceptionHandeling\bin\Debug\exceptionHandeling.pdb
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\exceptionHandeling\exceptionHandeling\obj\Debug\exceptionHandeling.csproj.AssemblyReference.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\exceptionHandeling\exceptionHandeling\obj\Debug\exceptionHandeling.csproj.CoreCompileInputs.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\exceptionHandeling\exceptionHandeling\obj\Debug\exceptionHandeling.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\exceptionHandeling\exceptionHandeling\obj\Debug\exceptionHandeling.pdb

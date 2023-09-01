@@ -196,9 +196,9 @@ namespace application1
 
 
             //Class1.array();
-            // Class2.multiDArray();
+            //Class2.multiDArray();
 
-            //JaggedArray.jagged();
+            JaggedArray.jagged();
 
             ReRun.rerunProgram();
 

@@ -1,0 +1,7 @@
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\generic\generic\bin\Debug\generic.exe.config
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\generic\generic\bin\Debug\generic.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\generic\generic\bin\Debug\generic.pdb
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\generic\generic\obj\Debug\generic.csproj.AssemblyReference.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\generic\generic\obj\Debug\generic.csproj.CoreCompileInputs.cache
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\generic\generic\obj\Debug\generic.exe
+Z:\Aptech\2203B2(TTS 9 to 11)\C#\generic\generic\obj\Debug\generic.pdb
